@@ -1,5 +1,5 @@
 # BOT-Discord
-with JDA
+with JDA https://github.com/DV8FromTheWorld/JDA
 
 # LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
