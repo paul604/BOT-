@@ -31,13 +31,6 @@ public class Bot {
         int i;
         System.out.println("Le Bot est autorisé sur " + (i = jda.getGuilds().size()) + " serveur" + (i > 1 ? "s" : ""));
         stop = false;
-       /* while (!stop) {
-            Scanner scanner = new Scanner(System.in);
-            String cmd = scanner.next();
-            if (cmd.equalsIgnoreCase("stop")) {
-                botStop();
-            }
-        }*/
     }
 
     public void botStop(){

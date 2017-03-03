@@ -7,7 +7,7 @@ import bot.Bot;
  */
 public class Main {
 
-    private static String token="le token";//a modif
+    private static String token="MjMyMTE1ODIxNTE2ODE2Mzg1.CtKObg.10gBkfw5oiblhfDIAA5dpWVfDas";
 
     public static void main(String[] arg){
         System.out.println("log");
