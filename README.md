@@ -1,11 +1,6 @@
 # BOT-Discord
 Discord : https://discordapp.com/  
-JDA : https://github.com/DV8FromTheWorld/JDA
-
-projet en pause:  
-- [ ] Passage à l'API Discord4J : https://github.com/austinv11/Discord4J
-- [ ] Maven
-- [ ] config
+Discord4J : https://github.com/austinv11/Discord4J
 
 
 # LICENSE
